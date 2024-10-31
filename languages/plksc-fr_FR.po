@@ -1,0 +1,322 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: plksc\n"
+"POT-Creation-Date: 2018-11-18 10:21+0100\n"
+"PO-Revision-Date: 2018-11-18 11:46+0100\n"
+"Last-Translator: \n"
+"Language-Team: plksc\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: admin/view.php\n"
+"X-Poedit-SearchPath-2: permalink-sc.php\n"
+"X-Poedit-SearchPath-3: includes/shortcode_generator.php\n"
+
+#: admin/view.php:4
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n'avez pas suffisamment de droit pour accéder à cette page"
+
+#: admin/view.php:26
+msgid "Settings saved"
+msgstr "Mise à jour effectuée"
+
+#: admin/view.php:34 permalink-sc.php:152 permalink-sc.php:154
+msgid "Settings"
+msgstr "Paramétrages"
+
+#: admin/view.php:49
+msgid "Shortcode generation"
+msgstr "Générateur de Shortcode"
+
+#: admin/view.php:55
+msgid "Custom text content"
+msgstr "Contenu textuel personnalisé"
+
+#: admin/view.php:58
+msgid "Choose the text you wish inside your shortcode"
+msgstr "Choisir le texte que vous souhaitez dans votre shortcode"
+
+#: admin/view.php:61
+msgid "Select the post you wish to use"
+msgstr "Sélectionner le post que vous souhaitez utiliser"
+
+#: admin/view.php:80
+msgid "--------- Categories ----------"
+msgstr "--------- Catégories ----------"
+
+#: admin/view.php:109
+msgid "--------- Tags ----------"
+msgstr "--------- Tags ----------"
+
+#: admin/view.php:135
+msgid "--------- Page ----------"
+msgstr "--------- Page ----------"
+
+#: admin/view.php:177
+msgid "--------- Post ----------"
+msgstr "--------- Post ----------"
+
+#: admin/view.php:240
+msgid "Open in new window ?"
+msgstr "Ouvrir dans une nouvelle fenêtre ?"
+
+#: admin/view.php:247
+msgid "yes"
+msgstr "oui"
+
+#: admin/view.php:248
+msgid "Check if you wish the link open in new window"
+msgstr "Check si vous souhaitez ouvrir le lien dans une nouvelle fenêtre"
+
+#: admin/view.php:252
+msgid "Shortcode generated"
+msgstr "Shortcode généré"
+
+#: admin/view.php:257
+msgid "Copy / Paste this shortcode where you wish to see your link"
+msgstr "Copié / coller ce shortcode où vous souhaitez voir votre lien"
+
+#: admin/view.php:272
+msgid "Frequently asked questions"
+msgstr "Questions fréquentes (FAQ)"
+
+#: admin/view.php:274
+msgid "Do you have questions about the plugin's operation?"
+msgstr "Avez-vous des questions sur le fonctionnement du plugin?"
+
+#: admin/view.php:274
+msgid "Feel free to consult our frequently asked questions"
+msgstr "N'hésitez pas à consulter nos questions fréquemment posées"
+
+#: admin/view.php:278
+msgid "What kind of post type, this plugin work with ?"
+msgstr "Avec quel post type ce plugin fonctionne t'il ?"
+
+#: admin/view.php:280
+msgid "For now, our plugin works with post and page"
+msgstr "Pour le moment, notre plugin fonctionne avec les pages et posts"
+
+#: admin/view.php:284
+msgid "Can I use this plugin to generate shortcode for categories?"
+msgstr ""
+"Est ce que je peux utiliser ce plugin pour générer des shortcodes pour les "
+"catégories ?"
+
+#: admin/view.php:286
+msgid "Yes, our plugin works fine with categories, and tags as well."
+msgstr ""
+"Oui, notre plugin fonctionne très bien avec les catégories et les tags."
+
+#: admin/view.php:304
+msgid "Permalink shortcode"
+msgstr "Permalink shortcode"
+
+#: admin/view.php:308
+msgid ""
+"With this plugin, once your shortcode is integrated inside your page, you "
+"can change the permalink's destination."
+msgstr ""
+"Avec ce plugin, une fois votre shortcode intégré dans votre page, vous "
+"pouvez changer la destination du permalien."
+
+#: admin/view.php:309
+msgid ""
+"once you have integrated the shortcode in your page, you can change the url "
+"of destination (permalink), your url will not be broken."
+msgstr ""
+"Une fois que vous avez intégré le shortcode dans votre page, vous pouvez "
+"changer l'URL de destination (permalien), votre URL ne sera pas cassée."
+
+#: admin/view.php:310
+msgid "No more 404 error !!"
+msgstr "Pas plus d'erreur 404 !!"
+
+#: admin/view.php:311
+msgid ""
+"To help you integrate the shorcode into your pages, you can use our "
+"shortcode generator."
+msgstr ""
+"Pour vous aider à intégrer le shortcode dans vos pages, vous pouvez "
+"utiliser notre générateur de shortcode."
+
+#: admin/view.php:312
+msgid ""
+"Once it generated, you just have to copy / paste to the desired place in "
+"your page."
+msgstr ""
+"Une fois qu'il a généré, il vous suffit de copier / coller à l'endroit "
+"souhaité dans votre page."
+
+#: admin/view.php:313
+msgid "You can also embed the URLs of your tags and categories."
+msgstr "Vous pouvez également intégrer les URL de vos tags et catégories."
+
+#: admin/view.php:314
+msgid "Plugin informations"
+msgstr "Informations sur le plugin"
+
+#~ msgid "Pets List"
+#~ msgstr "Pets List"
+
+#~ msgid ""
+#~ "This plugin allows you to list the list of animals you propose for "
+#~ "adoption. Categories are created by default."
+#~ msgstr ""
+#~ "Ce plugin vous permet de lister la liste des animaux que vous proposez "
+#~ "pour adoption. Les catégories sont créées par défaut."
+
+#~ msgid "Do you have problems with its operation?"
+#~ msgstr "Avez-vous des problèmes avec son fonctionnement?"
+
+#~ msgid "Try to get answers"
+#~ msgstr "Obtenir des réponses"
+
+#~ msgid "Help"
+#~ msgstr "Aide"
+
+#~ msgid "Widget settings"
+#~ msgstr "Paramétrage du widget"
+
+#~ msgid "Dashboard"
+#~ msgstr "Tableau de bord"
+
+#~ msgid "Number of categories : "
+#~ msgstr "Nombre de catégories : "
+
+#~ msgid "Number of Pets : "
+#~ msgstr "Nombre d'animaux : "
+
+#~ msgid "Plugin version : "
+#~ msgstr "Version du plugin : "
+
+#~ msgid "Status"
+#~ msgstr "Status"
+
+#~ msgid "Pets List Categories"
+#~ msgstr "Catégories Pets List"
+
+#~ msgid "Search Pets List Tag"
+#~ msgstr "Rechercher des mots clés"
+
+#~ msgid "AllPets List Tags"
+#~ msgstr "Tous les mots clés"
+
+#, fuzzy
+#~| msgid "Manager Pets List"
+#~ msgid "Parent Pets List Tag"
+#~ msgstr "Manager Pets List"
+
+#, fuzzy
+#~| msgid "Manager Pets List"
+#~ msgid "Parent Pets List Tag:"
+#~ msgstr "Manager Pets List"
+
+#, fuzzy
+#~| msgid "Pets List"
+#~ msgid "Edit Pets List Tag"
+#~ msgstr "Pets List"
+
+#, fuzzy
+#~| msgid "Manager Pets List"
+#~ msgid "Update Pets List Tag"
+#~ msgstr "Manager Pets List"
+
+#, fuzzy
+#~| msgid "Pets List"
+#~ msgid "Add New Pets List Tag"
+#~ msgstr "Pets List"
+
+#, fuzzy
+#~| msgid "Pets List"
+#~ msgid "New Pets List Tag"
+#~ msgstr "Pets List"
+
+#, fuzzy
+#~| msgid "Pets List"
+#~ msgid "Pets List Tags"
+#~ msgstr "Pets List"
+
+#~ msgid "Basic Settings"
+#~ msgstr "Paramétrages Basic"
+
+#~ msgid "Website's name"
+#~ msgstr "Nom du site Internet"
+
+#~ msgid "Unit of measure"
+#~ msgstr "Unités de mesure"
+
+#~ msgid "Cm"
+#~ msgstr "Cm"
+
+#~ msgid "Inches"
+#~ msgstr "Pouces"
+
+#~ msgid "Default : Centimeter (Cm)"
+#~ msgstr "Défaut : Centimetre (Cm)"
+
+#~ msgid "Unit of weight"
+#~ msgstr "Unité de poids"
+
+#~ msgid "Kg"
+#~ msgstr "Kg"
+
+#~ msgid "Lbs"
+#~ msgstr "Lbs"
+
+#~ msgid "Show price"
+#~ msgstr "Afficher le prix"
+
+#~ msgid "Advanced User"
+#~ msgstr "Utilisateur avancé"
+
+#~ msgid "Use Pets List's CSS"
+#~ msgstr "Utiliser la CSS de Pets List"
+
+#~ msgid "Notification Email"
+#~ msgstr "Email de notification"
+
+#~ msgid "Manager Pets List"
+#~ msgstr "Manager Pets List"
+
+#~ msgid "M j, Y @ G:i"
+#~ msgstr "M j, Y @ G:i"
+
+#~ msgid "Parent Item:"
+#~ msgstr "Parent Item:"
+
+#~ msgid "All Pets"
+#~ msgstr "Tous les animaux"
+
+#~ msgid "See"
+#~ msgstr "Voir"
+
+#~ msgid "Add a Pet"
+#~ msgstr "Ajouter un animal"
+
+#~ msgid "New Pet"
+#~ msgstr "Nouvel animal"
+
+#~ msgid "Edit"
+#~ msgstr "Editer"
+
+#~ msgid "Update"
+#~ msgstr "Mettre à jour"
+
+#~ msgid "Search a Pet"
+#~ msgstr "Rechercher un animal"
+
+#~ msgid "No Pet found"
+#~ msgstr "Aucun animal trouvé"
+
+#~ msgid "GDPR"
+#~ msgstr "RGPD"
+
+#~ msgid "GDPR Options"
+#~ msgstr "RGPD Options"
